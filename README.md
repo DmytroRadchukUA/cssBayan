@@ -1,1 +1,1 @@
-https://github.com/DmytroRadchukUA/cssBayan/cssBayan/index.html
+https://dmytroradchukua.github.io/cssBayan/cssBayan/index.html
